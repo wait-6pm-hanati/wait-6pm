@@ -3565,7 +3565,9 @@ input[type="button"].btn-block {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between; }
+    justify-content: space-between; 
+    background: rgba(25, 139, 131, 1);
+  }
 
 .navbar-brand {
   display: inline-block;
@@ -8943,7 +8945,7 @@ a.text-dark:hover {
     color: rgba(0, 0, 0, 0.9); }
 
 .navbar-light .navbar-nav .nav-link {
-  color: rgba(0, 0, 0, 0.5); }
+  color: white; }
   .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
     color: rgba(0, 0, 0, 0.7); }
   .navbar-light .navbar-nav .nav-link.disabled {
