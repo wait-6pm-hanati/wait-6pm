@@ -1,0 +1,11 @@
+.hana-main-center {
+    place-content: center;
+}
+.hana-main-flex {
+    display: flex;
+}
+.hana-image {
+    margin: 3%;
+    width: 250px;
+    height: 300px;
+}
